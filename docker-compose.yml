@@ -1,0 +1,9 @@
+version: '3'
+services:
+  battlenet-prefill:
+    build: .
+    volumes:
+      - ./cache:/app/cache
+    profiles:
+      - battlenet-prefill
+    network_mode: host
