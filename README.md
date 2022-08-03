@@ -31,8 +31,7 @@ This is NOT recommended as it's more awkward, but if you *really* want to:
 
 ```bash
 docker run \
-  -v ${PWD}/Cache:/app/Cache \
-  -v ${PWD}/Config:/app/Config \
+  -v ${PWD}/cache:/app/cache \
   -it \
   --rm \
   ghcr.io/mintopia/battlenet-prefill-docker:latest \
