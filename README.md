@@ -21,7 +21,7 @@ cd battlenet-prefill-docker
 ./BattleNetPrefill list-products
 ```
 
-For instructions on how to use SteamPrefill please read the [README on the GitHub project](https://github.com/tpill90/battlenet-lancache-prefill).
+For instructions on how to use BattleNetPrefill please read the [README on the GitHub project](https://github.com/tpill90/battlenet-lancache-prefill).
 
 Config and cache data are written to bind-mounted volumes.
 
