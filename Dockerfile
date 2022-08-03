@@ -5,7 +5,6 @@ RUN \
     cd /tmp && \
     wget -O BattleNetPrefill.zip https://github.com/tpill90/battlenet-lancache-prefill/releases/download/v${PREFILL_VERSION}/linux-x64.zip && \
     unzip BattleNetPrefill && \
-    ls -alh && \
     chmod +x BattleNetPrefill-linux-x64\\BattleNetPrefill
 
 
