@@ -1,6 +1,14 @@
-# Dockerised BattleNet Prefill
+# Dockerised BattleNet Prefill - Deprecated
 
 [![](https://dcbadge.vercel.app/api/server/BKnBS4u?style=flat-square)](https://discord.com/invite/lancachenet)
+
+## Deprecated
+
+Please use [this version by Kimmo Saari](https://gitlab.com/kirbo/battlenet-prefill-docker) instead. It has a lot more features including:
+
+- Automatic daily builds
+- Uses the latest version
+- Can easily be added to portainer
 
 ## Introduction
 
